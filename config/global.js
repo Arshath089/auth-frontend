@@ -1,3 +1,3 @@
-const API_URL = "http://localhost:4000"
+const API_URL = "https://auth-be-dy7p.onrender.com"
 
 export default API_URL;
